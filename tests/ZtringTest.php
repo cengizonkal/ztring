@@ -5,7 +5,7 @@
  * @method assertTrue(bool $endsWith)
  * @method assertFalse(bool $endsWith)
  */
-class ZtringTest extends PHPUnit_Framework_TestCase
+class ZtringTest extends \PHPUnit\Framework\TestCase
 {
 
     public function testRandomString()
