@@ -2,7 +2,6 @@
 [![Latest Stable Version](https://poser.pugx.org/conkal/ztring/v/stable)](https://packagist.org/packages/conkal/ztring)
 [![License](https://poser.pugx.org/conkal/ztring/license)](https://packagist.org/packages/conkal/ztring)
 [![Total Downloads](https://poser.pugx.org/conkal/ztring/downloads)](https://packagist.org/packages/conkal/ztring)
-[![Build Status](https://travis-ci.com/cengizonkal/ztring.svg?branch=master)](https://travis-ci.com/cengizonkal/ztring)
 ![Build](https://github.com/cengizonkal/ztring/workflows/Build/badge.svg)
 
 A PHP string manipulation library.
